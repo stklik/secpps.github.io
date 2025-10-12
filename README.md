@@ -32,6 +32,7 @@ Please join our initiative to get access, e.g., be registering for and participa
 
 # Upcoming Workshop Editions:
 
+- May 26th - 28th: 13th SECPPS Workshop (Community Edition) at Karlsruhe Institute of Technology, DE
 - February 2026: [12th SECPPS Workshop](./se26) (Conference Edition) co-located with SE 2026 at University of Bern, Switzerland 
 - September 2025: [11th SECPPS Workshop](./etfa25) (Conference Edition) co-located as Special Session with ETFA 2025 in Porto, PT   
 
