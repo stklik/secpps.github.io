@@ -7,7 +7,7 @@ slug: oldenburg
 # Workshop 2024/2 -- Community Edition
 #### OFFIS, Oldenburg, May 21st-23rd, 2024
 
-The community edition of the [SECPPS workshop series](/secpps-ws/) focuses on a constructive and
+The community edition of the [SECPPS workshop series](/) focuses on a constructive and
 open exchange process to guide industry-relevant research and to help
 transferring technological advances from research into industry. We welcome
 academic and industrial participants to come together to summarize existing
@@ -24,7 +24,7 @@ a strong desire to create actionable output for the near future.
 For more information regarding the workshop, especially for people who are
 interested to attend for the first time, please contact [Jörg Walter](https://www.offis.de/en/offis/person/joerg-walter.html)
 ([joerg.walter@offis.de](mailto:joerg.walter@offis.de?subject=SECPPS24 Information)).
-You can find information on past workshops on the [SECPPS workshop series index page.](/secpps-ws/) 
+You can find information on past workshops on the [SECPPS workshop series index page.](/) 
 
 **Note:** A draft version of this invitation had a later date. If you saw
 the draft, please note the current, final date of the event.
