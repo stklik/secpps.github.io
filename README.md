@@ -32,21 +32,21 @@ Please join our initiative to get access, e.g., be registering for and participa
 
 # Upcoming Workshop Editions:
 
-- May 26th - 28th: 13th SECPPS Workshop (Community Edition) at Karlsruhe Institute of Technology, DE
+- May 26th - 28th 2026: [13th SECPPS Workshop](./kit26) (Community Edition) at Karlsruhe Institute of Technology, DE
 - February 2026: [12th SECPPS Workshop](./se26) (Conference Edition) co-located with SE 2026 at University of Bern, Switzerland 
-- September 2025: [11th SECPPS Workshop](./etfa25) (Conference Edition) co-located as Special Session with ETFA 2025 in Porto, PT   
 
 --- 
 
 # Preceding Workshop Editions:
+  - [11th SECPPS Workshop](./etfa25) (Conference Edition) co-located as Special Session with ETFA 2025 in Porto, PT 
   - [10th SECPPS Workshop](./Stuttgart25) (Community Edition) at ISW Stuttgart, DE
-  - [9th SECPPS Workshop](./se25) co-located with SE 2025 at KIT Karlsruhe, Germany
+  - [9th SECPPS Workshop](./se25) co-located with SE 2025 at KIT Karlsruhe, DE
   - [8th SECPPS Workshop](./etfa24) (Conference Edition) co-located as Special Session with ETFA 2024 in Padova, IT
   - [7th SECPPS Workshop](./oldenburg24) (Community Edition) at OFFIS, Oldenburg, DE
   - [6th SECPPS Workshop](./se24) co-located with SE 2024 at JKU Linz, AT
-  - [5th SECPPS Workshop](./etfa23) co-located as Special Session with ETFA 2023 in Sinaia, Romania
-  - [4th SECPPS Workshop](./hildesheim23) at University of Hildesheim, Germany
-  - [3rd SECPPS Workshop](./traunkirchen23)  located at the International Academy Traunkirchen, Austria 
+  - [5th SECPPS Workshop](./etfa23) co-located as Special Session with ETFA 2023 in Sinaia, RO
+  - [4th SECPPS Workshop](./hildesheim23) at University of Hildesheim, DE
+  - [3rd SECPPS Workshop](./traunkirchen23)  located at the International Academy Traunkirchen, AT 
   - [Informal intermediary meetings](./intermediary22)
   - [2nd SECPPS Workshop](./se22) co-located with SE 2022 (virtual, AoE)
   - [1st SECPPS Workshop](./se21) co-located with SE 2021 (virtual, AoE)
